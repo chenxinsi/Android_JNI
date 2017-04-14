@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Test</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="calculate">计算两数之和：</string>
+    <string name="input">“  +  ”</string>
+    <string name="sum">"求和"</string>
+    <string name="num1">"数字1"</string>
+    <string name="num2">"数字2"</string>
+    <string name="result">"计算结果"</string>
+</resources>
